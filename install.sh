@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./PiAUISuite/Install/InstallAUISuite.sh
+./lib/PiAUISuite/Install/InstallAUISuite.sh
