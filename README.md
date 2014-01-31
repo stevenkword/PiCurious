@@ -1,4 +1,4 @@
 PiCurious
 =========
 
-A collection of search tools for the RaspberryPi.
+A collection of voice search tools for the RaspberryPi.
